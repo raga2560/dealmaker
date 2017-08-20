@@ -162,11 +162,14 @@ This will build and run locally
 - firebase init
 - firebase use --add
 - firebase deploy
+
 ##firebase authentication
+
 In firebase console of app
 -Authentication -> Signin-> Enable google signin
 
 ##firebase permission to database
+
 In Firebase console of app.
 Database->Rules
 {
