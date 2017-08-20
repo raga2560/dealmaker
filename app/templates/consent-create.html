@@ -1,0 +1,162 @@
+<ion-view id="deals" view-title="New Deal Create">
+	
+	<ion-content padding="true">
+		<ion-item > 
+		    
+		1)  <a href="#/tab/home" > Home </a>
+		2)  <a href="#/tab/consents" > Go to deals </a> 
+		
+	</ion-item >
+	<label class = "item item-input item-select item-calm">
+   <div class = "input-label">
+      Select 
+   </div>
+	
+   <select  ng-model="vm.consent.type" ng-init="vm.consent.type = vm.type[2]"  ng-options="x for x in vm.type">
+      
+   </select>
+   </label>
+
+   <label class = "item item-input item-select item-balanced">
+   <div class = "input-label">
+      Select {{vm.consent.type}}
+   </div>
+	
+   <select  ng-model="vm.consent.subtype" ng-init="vm.consent.subtype = vm.marriagetype[0]"  ng-options="x for x in vm.marriagetype" ng-show="vm.consent.type=='Marriage'">
+      
+   </select>
+   <select  ng-model="vm.consent.subtype" ng-init="vm.consent.subtype = vm.datingtype[0]"  ng-options="x for x in vm.datingtype" ng-show="vm.consent.type=='Dating'">
+      
+   </select>
+   <select  ng-model="vm.consent.subtype" ng-init="vm.consent.subtype = vm.businesstype[0]"  ng-options="x for x in vm.businesstype" ng-show="vm.consent.type=='Business'">
+      
+   </select>
+   <select  ng-model="vm.consent.subtype" ng-init="vm.consent.subtype = vm.realestatetype[0]"  ng-options="x for x in vm.realestatetype" ng-show="vm.consent.type=='Real Estate'">
+      
+   </select>
+   </label>
+	
+	
+		<div class = "input-label">
+      Title
+		</div>	
+		<div class = "item item-input-inset">
+		
+      <label class = "item item-input-wrapper">
+         <i class = "icon ion-edit placeholder-icon"></i>
+    	<input  type="text" cols="150" ng-model="vm.consent.title" placeholder=" Enter title" style="color:blue;width:100%; "> 
+
+		</input>
+	
+      </label>
+   </div>
+   
+   
+   
+		<div class = "input-label">
+      Description
+		</div>	
+		<div class = "item item-input-inset">
+		
+      <label class = "item item-input-wrapper">
+         <i class = "icon ion-edit placeholder-icon"></i>
+    	<textarea rows="4" cols="150" ng-model="vm.consent.description" placeholder=" Enter description" style="color:blue;width:100%; ">
+
+		</textarea>
+	
+      </label>
+   </div>
+   
+   <div class = "input-label">
+      Consentor email-id
+		</div>	
+		<div class = "item item-input-inset">
+		
+      <label class = "item item-input-wrapper">
+         <i class = "icon ion-email placeholder-icon"></i>
+    	<input  type="text" cols="150" ng-model="vm.consent.consentoremail" placeholder=" Enter email-id" style="color:blue;width:100%; "> 
+
+		</input>
+	
+      </label>
+   </div>
+   
+		
+	<div class = "input-label">
+      Attach any image
+		</div>	
+		<div class = "item item-input-inset">
+		
+      <label class = "item item-input-wrapper">
+         <i class = "icon ion-upload placeholder-icon"></i>
+    	
+		<button type="file" ngf-select="vm.uploadimage($file, $invalidFiles)"
+          accept="image/*" ngf-max-height="1000" ngf-max-size="1MB" class="button icon ion-upload">
+      Add image</button>
+	  
+  
+  <div style="font:smaller">{{f.name}} 
+  </div>     
+  
+  
+  
+      </label>
+	  
+   </div>
+   
+ 
+	<div class="item item-thumbnail-left" >
+   <img ng-src="{{vm.consent.uploadedimage}}">
+      MD5:<p> {{vm.consent.imagehash}} </p>
+      
+      
+    </div>
+	
+	
+	<div class = "input-label">
+       Attach any pdf
+		</div>	
+		<div class = "item item-input-inset">
+		
+      <label class = "item item-input-wrapper">
+         <i class = "icon ion-upload placeholder-icon"></i>
+    <button type="file" ngf-select="vm.uploadpdf($file, $invalidFiles)"
+          accept="application/pdf" ngf-max-height="1000" ngf-max-size="1MB" class="button icon ion-upload">
+      Add pdf</button>
+	  
+      </label>
+   </div>
+   <div class="item item-icon-left"  >
+				<span ng-if="vm.consent.uploadedpdf != ''">
+					<i class="icon ion-document"></i>
+					<span>PDF</span>
+					MD5<span> {{vm.consent.pdfhash}}</span>
+				</span>
+	</div>
+	
+	
+   
+   	<div class = "input-label">
+      Closing message
+		</div>	
+		<div class = "item item-input-inset">
+		
+      <label class = "item item-input-wrapper">
+         <i class = "icon ion-edit placeholder-icon"></i>
+    	<input  type="text" cols="150" ng-model="vm.consent.closingmessage" placeholder=" Enter closing message" style="color:blue;width:100%; "> 
+
+		</input>
+	
+      </label>
+   </div>
+   
+   
+   
+  
+    
+	
+		<button ng-click="vm.createNewConsentdata()" class = "button button-block button-positive"> Save draft of deal </button>
+
+		
+	</ion-content>
+</ion-view>

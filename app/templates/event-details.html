@@ -1,0 +1,55 @@
+<ion-view id="events" view-title="Event">
+	
+	<ion-content padding="true">
+	<ion-item > 
+		    
+		1)  <a href="#/tab/home" > Home </a>
+		2)  <a href="#/tab/events" > Go to events </a> 
+	</ion-item >
+	
+		<h2>{{vm.event.title}}</h2>
+		<p>
+			{{vm.event.startDate| date: 'fullDate'}} - {{vm.event.endDate| date: 'fullDate'}}
+		</p>
+
+		<p >{{vm.event.description}}</p>
+		<button ng-click="vm.goToEditEventDetails(vm.editeventId)"> Edit </button>
+		<button ng-click="vm.deleteEvent(vm.editeventId)"> Delete </button>
+		
+		
+		
+		<div class="list card">
+		<ion-item > 
+		    <img ng-src="{{vm.event.image}}" style="width: 64px; height: 64px">
+		
+		</ion-item >
+		
+			<a class="item item-icon-left" ng-click="vm.toggleFavorites()">
+				<span ng-if="!vm.event.isInFavorites">
+					<i class="icon ion-ios-star-outline"></i>
+					<span>Add to favorites</span>
+				</span>
+				<span ng-if="vm.event.isInFavorites">
+					<i class="icon ion-ios-star balanced"></i>
+					<span>Remove from favorites</span>
+				</span>
+			</a>
+		</div>
+		<div class="list card">
+			<a href="tel:{{vm.event.phoneNumber}}" class="item item-icon-left">
+				<i class="icon ion-ios-telephone"></i>
+				Phone
+			</a>
+			
+			<a class="item item-icon-left" ng-click="vm.openUrl(vm.event.facebook)">
+				<i class="icon ion-social-facebook"></i>
+				Facebook
+			</a>
+			
+			<a class="item item-icon-left" ng-click="vm.openUrl(vm.event.webpage)">
+				<i class="icon ion-ios-world"></i>
+				Webpage
+			</a>
+		</div>
+	</ion-content>
+</ion-view>

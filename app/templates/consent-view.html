@@ -1,0 +1,111 @@
+<ion-view id="deals" view-title="Consent view">
+	
+	<ion-content padding="true">
+		<ion-item > 
+		    
+		1)  <a href="#/tab/home" > Home </a>
+		2)  <a href="#/tab/consents" > Go to deals </a> 
+		
+	</ion-item >
+	
+	
+	
+  <div class = "card">
+   <a class="item item-thumbnail-left" href="#">
+   <img src = "images/Jellyfish.jpg">
+      <p> {{vm.dynamicconsent.data.title}} </p>
+      
+      
+    </a>
+	
+	<div class = "item item-body">
+      <img class = "full-image" ng-src="{{vm.dynamicconsent.data.uploadedimage}}">
+      {{vm.dynamicconsent.data.description}} 
+   </div>
+   
+  
+  <a class="item item-icon-left" href="{{vm.dynamicconsent.data.uploadedpdf}}" >
+				<span >
+					<i class="icon ion-document balanced"></i>
+					<span>PDF</span>
+					MD5<span> {{vm.dynamicconsent.data.pdfhash}}</span>
+				</span>
+	</a>
+	
+   <a class="item item-icon-left" ng-click="vm.SentConsent(vm.consentId)" ng-if="vm.dynamicconsent.data.consented=='draft' && vm.uid == vm.dynamicconsent.data.creatorid">
+				<span >
+					<i class="icon ion-forward balanced"></i>
+					<span>Send deal for consent</span>
+				</span>
+	</a>
+	<a class="item item-icon-left"  ng-if="vm.dynamicconsent.data.consented=='sent' && vm.uid == vm.dynamicconsent.data.creatorid">
+				<span >
+					<i class="icon ion-person balanced"></i>
+					<span>Deal waiting response</span>
+				</span>
+	</a>
+	
+	<a class="item item-icon-left" ng-click="vm.EditConsentDetails(vm.consentId)" ng-if="vm.dynamicconsent.data.consented=='draft' && vm.uid == vm.dynamicconsent.data.creatorid">
+				<span >
+					<i class="icon ion-edit calm"></i>
+					<span>Edit the deal</span>
+				</span>
+	</a>
+	
+	<a class="item item-icon-left" ng-click="vm.AcceptConsent(vm.consentId)" ng-if="vm.dynamicconsent.data.consented=='sent' && vm.uid == vm.dynamicconsent.data.consentorid">
+				<span >
+					<i class="icon ion-thumbsup balanced"></i>
+					<span>Agree to deal</span>
+				</span>
+	</a>
+	<a class="item item-icon-left" ng-click="vm.RefuseConsent(vm.consentId)" ng-if="vm.dynamicconsent.data.consented=='sent' && vm.uid == vm.dynamicconsent.data.consentorid">
+				<span >
+					<i class="icon ion-thumbsdown assertive"></i>
+					<span>Refuse the deal</span>
+				</span>
+	</a>
+	<div class="item item-icon-left" >
+	<span ng-if="vm.dynamicconsent.data.consented=='accepted'">
+					<i class="icon icon-left ion-thumbsup balanced"></i>
+					<span>Agreed </span>
+				</span>
+	</div>
+	<div class="item item-icon-left" >
+	<span ng-if="vm.dynamicconsent.data.consented=='refused'">
+					<i class="icon icon-left ion-thumbsup assertive"></i>
+					<span>Refused </span>
+				</span>
+	</div>
+	<ion-item>
+	<button class="button button-small button-assertive"
+					ng-click="vm.deleteDeal(vm.consentId)"
+					ng-if="vm.dynamicconsent.data.consented=='draft' && vm.uid == vm.dynamicconsent.data.creatorid"
+					>
+					Delete deal draft
+	</button>
+	</ion-item>
+	
+			
+  </div>
+  
+  <div class="list card">
+			<a href={{vm.dynamicconsent.data.consentpdf}} class="item item-icon-left">
+				<i class="icon ion-document"></i>
+				PDF document
+			</a>
+			
+			<a class="item item-icon-left" href="#">
+				<i class="icon ion-email"></i>
+				{{vm.dynamicconsent.data.consentoremail}}
+			</a>
+			
+			<a href="tel:{{vm.dynamicconsent.data.phoneNumber}}" class="item item-icon-left">
+				<i class="icon ion-ios-telephone"></i>
+				Phone
+			</a>
+	</div>
+  
+  
+		
+	</ion-content>
+</ion-view>

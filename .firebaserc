@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "the-deal-maker",
+    "dealmaker": "the-deal-maker"
+  }
+}

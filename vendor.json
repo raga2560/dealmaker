@@ -1,0 +1,19 @@
+[
+    "bower_components/angular/angular.js",
+    "bower_components/angular-resource/angular-resource.js",
+	"bower_components/SparkMD5/spark-md5.js",
+	"bower_components/angular-file-md5/angular-file-md5.js",
+    "bower_components/angular-animate/angular-animate.js",
+    "bower_components/angular-sanitize/angular-sanitize.js",
+    "bower_components/angular-ui-router/release/angular-ui-router.js",
+    "bower_components/ionic/js/ionic.js",
+    "bower_components/ionic/js/ionic-angular.js",
+	"bower_components/ng-file-upload/ng-file-upload-shim.min.js",
+    "bower_components/ng-file-upload/ng-file-upload.min.js",
+	"bower_components/firebase/firebase.js",
+	"bower_components/angularfire/dist/angularfire.js",
+	"bower_components/ionic-toast/dist/ionic-toast.bundle.min.js",
+	"bower_components/angular-local-storage/dist/angular-local-storage.js",
+    "bower_components/lodash/lodash.js",
+    "bower_components/ngCordova/dist/ng-cordova.js"
+]

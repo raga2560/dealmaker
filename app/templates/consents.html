@@ -1,0 +1,117 @@
+<ion-view ng-init="vm.init()" view-title="Consent deals">
+	
+	<ion-content  scroll="false" padding="true">
+	
+	 <ion-item > 
+		    
+		1)  <a href="#/tab/home" > Home </a>
+		2)  <a href="#/tab/consent-create" > Propose a deal  </a> 
+		
+	
+	</ion-item >
+	
+	<ion-item > 
+		 
+		<button ng-click="vm.gotoDealRequests()" class="button button-small  button-positive" > Incoming deals  </button> 
+		<button ng-click="vm.gotoConsentedDeals()" class="button button-small  button-positive" > Your deals  </button> 
+		 
+		
+	</ion-item >
+	<ion-scroll direction="y" style="height: 500px">
+	
+	
+		<ion-list can-swipe="true" id="consenteddeals" class="list">
+		<ion-item-divider class="item item-divider"> <h3>Your Deals</h3></ion-item-divider>
+		
+		<div ng-repeat="deal in vm.consents">
+		<ion-item >
+		<div class = "item item-avatar" ng-click="vm.goToConsentDetails(deal.$id)">
+		
+      <img src = "images/Jellyfish.jpg">
+      <h2>{{$index +1 }} :  {{deal.data.title}}</h2>
+		</div>
+
+		<div class = "item item-body" ng-click="vm.goToConsentDetails(deal.$id)">
+
+      {{deal.data.description}}
+		</div>
+		
+				
+				
+		<ion-item-footer class="item item-footer"> 
+			
+				<span ng-if="deal.data.consented=='sent'">
+					<i class="icon icon-left ion-person calm"></i>
+					<span>Waiting response</span>
+				</span>
+				<span ng-if="deal.data.consented=='accepted'">
+					<i class="icon icon-left ion-thumbsup balanced"></i>
+					<span>Agreed </span>
+				</span>
+				<span ng-if="deal.data.consented=='refused'">
+					<i class="icon icon-left ion-thumbsdown assertive"></i>
+					<span>Refused</span>
+				</span>
+				<span ng-if="deal.data.consented=='draft'">
+					<i class="icon icon-left ion-edit assertive"></i>
+					<span>Draft</span>
+				</span>
+		</ion-item-footer>
+		</ion-item>
+		</div>
+		
+		</ion-list>
+
+		<ion-list can-swipe="true" id="incomingdeals" class="list">
+		<ion-item-divider class="item item-divider"> <h3>Incoming Deals</h3></ion-item-divider>
+		
+		<div ng-repeat="deal in vm.consentrequests">
+		<ion-item >
+		<div class = "item item-avatar" ng-click="vm.goToConsentDetails(deal.$id)">
+		
+      <img src = "images/Jellyfish.jpg">
+      <h2>{{$index +1 }} :  {{deal.data.title}}</h2>
+		</div>
+
+		<div class = "item item-body" ng-click="vm.goToConsentDetails(deal.$id)">
+
+      {{deal.data.description}}
+		</div>
+		
+				
+				
+		<ion-item-footer class="item item-footer"> 
+			
+				<span ng-if="deal.data.consented=='sent'">
+					<i class="icon icon-left ion-person calm"></i>
+					<span>Waiting response</span>
+				</span>
+				<span ng-if="deal.data.consented=='accepted'">
+					<i class="icon icon-left ion-thumbsup balanced"></i>
+					<span>Agreed </span>
+				</span>
+				<span ng-if="deal.data.consented=='refused'">
+					<i class="icon icon-left ion-thumbsdown assertive"></i>
+					<span>Refused</span>
+				</span>
+				<span ng-if="deal.data.consented=='draft'">
+					<i class="icon icon-left ion-edit assertive"></i>
+					<span>Draft</span>
+				</span>
+		</ion-item-footer>
+		</ion-item>
+		</div>
+		
+		</ion-list>
+
+		
+		
+
+		
+		
+		
+	</ion-scroll>	
+			
+		
+	</ion-content>
+</ion-view>

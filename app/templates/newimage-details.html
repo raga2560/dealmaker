@@ -1,0 +1,97 @@
+<ion-view id="events" view-title="New Event">
+	
+	<ion-content padding="true">
+		<ion-item > 
+		    
+		1)  <a href="#/tab/home" > Home </a>
+		2)  <a href="#/tab/events" > Go to events </a> 
+	</ion-item >
+	
+	<ion-item > 
+	
+	<button type="file" ngf-select="vm.uploadimage($file, $invalidFiles)"
+          accept="image/*,application/pdf" ngf-max-height="1000" ngf-max-size="10MB" >
+      Select File</button>
+  <br><br>
+  File:
+  <div style="font:smaller">{{f.name}} {{errFile.name}} {{errFile.$error}} {{errFile.$errorParam}}
+      <span class="progress" ng-show="f.progress >= 0">
+          <div style="width:{{f.progress}}%"  
+               ng-bind="f.progress + '%'"></div>
+      </span>
+  </div>     
+  {{errorMsg}}
+  <img ng-src="{{vm.uploadedimage}}" style="width: 64px; height: 64px">
+  
+  	</ion-item > 
+  
+  
+  
+		<ion-item > 
+		{{vm.enteredevent.title}}
+		<input  type="text" cols="150" ng-model="vm.enteredevent.title" placeholder=" Enter title of event" style="color:blue;width:100%; "> 
+
+		</input>
+		</ion-item >
+		
+		<ion-item > 
+		{{vm.enteredevent.description}}
+		<textarea rows="4" cols="150" ng-model="vm.enteredevent.description" placeholder=" Enter description of event" style="color:blue;width:100%; ">
+
+		</textarea>
+		</ion-item >
+		<ion-item > 
+		{{vm.enteredevent.sponsor}}
+		<input  type="text" cols="150" ng-model="vm.enteredevent.sponsor" placeholder=" Enter sponsor for event " style="color:blue;width:100%; "> 
+
+		</input>
+		</ion-item >
+		
+		<ion-item > 
+		    <img ng-src="{{vm.enteredevent.image}}" style="width: 64px; height: 64px">
+		<input  type="text" cols="150" ng-model="vm.enteredevent.image" placeholder=" Enter html for image " style="color:blue;width:100%; "> 
+
+		</input>
+		</ion-item >
+		
+		<ion-item > 
+		    {{vm.enteredevent.startDate }}
+		<input  type="date" cols="150" ng-model="vm.enteredevent.startDate" placeholder=" Enter start date of event " style="color:blue;width:100%; "> 
+
+		</input>
+		</ion-item >
+		
+		<ion-item > 
+		    {{vm.enteredevent.endDate }}
+		<input  type="date" cols="150" ng-model="vm.enteredevent.endDate" placeholder=" Enter end date of event " style="color:blue;width:100%; "> 
+
+		</input>
+		</ion-item >
+		<ion-item > 
+		    Phone:{{vm.event.phoneNumber}}
+		<input  type="phone" cols="150" ng-model="vm.enteredevent.phoneNumber" placeholder=" Enter phone number for event " style="color:blue;width:100%; "> 
+
+		</input>
+		</ion-item >
+		<ion-item > 
+		    {{vm.enteredevent.facebook}}
+		<input  type="text" cols="150" ng-model="vm.enteredevent.facebook" placeholder=" Enter facebook link for event " style="color:blue;width:100%; "> 
+
+		</input>
+		</ion-item >
+		
+		
+		
+		<ion-item > 
+		    {{vm.enteredevent.webpage}}
+		<input  type="text" cols="150" ng-model="vm.enteredevent.webpage" placeholder=" Enter web page for event " style="color:blue;width:100%; "> 
+
+		</input>
+		</ion-item >
+		
+	  
+		<button ng-click="vm.createNewEvent()"> Save </button>
+
+		
+	</ion-content>
+</ion-view>

@@ -1,0 +1,71 @@
+<ion-view view-title="homeboard">
+  <ion-content class="padding">
+  <ion-item > 
+		    
+		1)  <a href="#/tab/home" > Home </a>
+		2)  <a href="#/tab/consents" > Deals  </a> 
+	</ion-item >
+	
+	<ion-item > 
+		    
+		
+	</ion-item >
+
+  
+  <ion-list can-swipe="true">
+			<ion-item ng-click="logout()"  style="text-align: center"  ng-if="myuserdata.isSignedIn">
+				<h2>Logout</h2>
+			</ion-item>
+			<ion-item class="item " style="text-align: center"  ng-if="myuserdata.email">
+				<h2>Already Logged in as {{myuserdata.email}}</h2>
+			</ion-item>
+	</ion-list>
+	<ion-list >
+	
+   <div class = "item item-avatar" ng-click="goToConsents()">
+      <img src = "images/Jellyfish.jpg">
+      <h2>Business consent</h2>
+   </div>
+
+   <div class = "item item-body" ng-click="goToConsents()">
+
+      Get consent for the business deal. The deal signed in a verifiable permanent record in blockchain
+   </div>
+
+
+   <div class = "item item-avatar" ng-click="goToConsents()">
+      <img src = "images/Penguins.jpg">
+      <h2>Marriage consent</h2>
+   </div>
+
+   <div class = "item item-body" ng-click="goToConsents()">
+
+      Get consent for relationship deal. The deal signed in a verifiable permanent record in blockchain
+   </div>
+
+
+   <div class = "item item-avatar" ng-click="goToConsents()">
+      <img src = "images/Tulips.jpg">
+      <h2>Dating consent</h2>
+   </div>
+
+   <div class = "item item-body" ng-click="goToConsents()">
+
+      Get consent for outing deal. The deal signed in a verifiable permanent record in blockchain
+   </div>
+
+
+   <div class = "item item-avatar" ng-click="goToConsents()">
+	<img  src = "images/Koala.jpg">
+      <h2>Real estate consent</h2>
+   </div>
+
+   <div class = "item item-body" ng-click="goToConsents()">
+      
+      Get consent for pricing, quality of realestate deal. The deal signed in a verifiable permanent record in blockchain
+   </div>
+
+</ion-list>
+
+  </ion-content>
+</ion-view>

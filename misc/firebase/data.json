@@ -1,0 +1,735 @@
+{
+  "abstracts" : {
+    "4fce546a-b23a-4267-b2d0-90a5afe8953f" : {
+      "title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+      "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit, augue at iaculis aliquet, diam eros iaculis metus, in tristique dui quam et libero. In vehicula in turpis sed interdum. Suspendisse rutrum euismod malesuada. Nam ultrices magna tellus, a accumsan odio tempor sed. Suspendisse potenti. Etiam nibh neque, viverra ut convallis a, viverra vitae justo. Praesent varius ligula at nulla consectetur ullamcorper. Donec gravida feugiat turpis, eget euismod sem luctus vitae. Nullam consectetur eleifend hendrerit. Sed tempus rhoncus viverra.",
+      "type" : "paper",
+      "authors" : {
+        "8cec040e-f4e9-4e3f-914a-9a50a11590e2" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Robert",
+          "lastName" : "Garell",
+          "email" : "robertgarell@gmail.com",
+          "affiliation" : "Boston University",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "d007d76b-9501-405c-94c2-ec79a33d8a32" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "David",
+          "lastName" : "Cooper",
+          "email" : "davidcooper@gmail.com",
+          "affiliation" : "University of Alberta",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "presenters" : {
+        "ed59d5ef-ec03-4212-b62d-6c8d9b12fbc7" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "David",
+          "lastName" : "Cooper",
+          "email" : "davidcooper@gmail.com",
+          "affiliation" : "University of Alberta",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "corresponding" : {
+        "bc257e9e-d086-432b-91bb-62e720a4eb40" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Robert",
+          "lastName" : "Garell",
+          "email" : "robertgarell@gmail.com",
+          "affiliation" : "Boston University",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "startDate" : 1477645200000,
+      "duration" : 30,
+      "pdf" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/pdf/abstract-sample.pdf",
+      "session" : "e676a3e7-4c0e-4f84-b054-8dff1e5577c8"
+    },
+    "72ba9dc7-d439-47d9-b79e-5aa2cbabcf8a" : {
+      "title" : "Pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+      "body" : "Maecenas pharetra ornare ipsum, eu malesuada magna mollis mattis. In suscipit consequat eros, et tempor massa faucibus sed. Curabitur at porttitor nisl, eget tincidunt enim. Praesent accumsan turpis auctor ligula cursus fermentum. Sed urna justo, aliquam in feugiat eget, euismod quis tortor. Sed non pharetra diam. Integer maximus massa nec tempor cursus. Duis ut neque felis. Ut turpis magna, finibus sit amet semper id, volutpat sed neque.",
+      "type" : "poster",
+      "authors" : {
+        "96d690d3-14f9-46cd-9c7f-c7cd93325a7e" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Rod",
+          "lastName" : "Coombs",
+          "email" : "robcoombs@gmail.com",
+          "affiliation" : "UMIST",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "de6f53c4-2ed8-4f75-adeb-47e033d70056" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Nancy",
+          "lastName" : "Okinow",
+          "email" : "nancyokinow@gmail.com",
+          "affiliation" : "University of Alberta",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "presenters" : {
+        "add1b5ed-6352-49a2-9b68-e2395c8353b5" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Rod",
+          "lastName" : "Coombs",
+          "email" : "robcoombs@gmail.com",
+          "affiliation" : "UMIST",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "b91e6076-7cfd-49f4-bee5-0fd6eb6ad4b9" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Nancy",
+          "lastName" : "Okinow",
+          "email" : "nancyokinow@gmail.com",
+          "affiliation" : "University of Alberta",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "corresponding" : {
+        "f74585a3-9f04-4f75-9e17-ed5f3c12f208" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Nancy",
+          "lastName" : "Okinow",
+          "email" : "nancyokinow@gmail.com",
+          "affiliation" : "University of Alberta",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "startDate" : 1477650600000,
+      "duration" : 60,
+      "session" : "b51c993b-1e3a-47fd-afa0-3c50d594d8c8"
+    },
+    "627d1bef-2cb9-433a-a088-bc9681b5e6f1" : {
+      "title" : "Donec in diam nunc nam iaculis a erat a sagittis nunc iaculis hendrerit nisi in tincidunt mauris a enim bibendum",
+      "body" : "Donec in diam nunc. Nam iaculis a erat a sagittis. Nunc iaculis hendrerit nisi in tincidunt. Mauris a enim bibendum, ornare tellus vitae, volutpat felis. Maecenas pulvinar vulputate erat, nec fermentum tortor volutpat sit amet. Mauris tristique bibendum dictum. Vivamus convallis mi non mauris pulvinar feugiat. Nunc rhoncus, lectus sed luctus sollicitudin, mi tellus iaculis orci, eu sollicitudin urna felis vel velit. Sed ac aliquet metus, at malesuada mi. Donec consectetur ullamcorper ornare. Maecenas vitae sagittis ipsum. Suspendisse scelerisque nibh dolor, eget ultrices ipsum aliquet ac. Phasellus ut nibh faucibus, lacinia ligula bibendum, vehicula nibh. Nam lobortis, sapien ut laoreet viverra, elit lacus porttitor erat, mattis eleifend lacus risus eu ipsum. Nam eget orci turpis. Nam ultrices sollicitudin mi ornare mollis. Duis eget hendrerit ex. Mauris at ante sed ex feugiat euismod. Etiam nulla ipsum, condimentum ac fringilla nec, consequat et eros. Nam et hendrerit felis. Donec interdum, dui in interdum faucibus, mauris augue gravida felis, vel feugiat magna lacus vel nulla.",
+      "type" : "workshop",
+      "presenters" : {
+        "136f9c77-c1f0-4288-ba71-0e819c10e0bb" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Christopher",
+          "lastName" : "Hodgman",
+          "email" : "cHodgman@gmail.com",
+          "affiliation" : "Northeastern University",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "febd2fdd-088d-423c-8fb8-9a0d560a42bf" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Gail",
+          "lastName" : "Slap",
+          "email" : "gailslap@gmail.com",
+          "affiliation" : "University of Wisconsin",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "a153a9d9-c960-4d34-823f-31da44f78918" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Alistair",
+          "lastName" : "Preston",
+          "email" : "apreston@gmail.com",
+          "affiliation" : "University of Washington",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "startDate" : 1477731600000,
+      "duration" : 90,
+      "pdf" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/pdf/abstract-sample.pdf",
+      "session" : "8b21de21-e848-4481-b05d-61fcd9218e85"
+    },
+    "62b57553-28d2-4185-ab9f-905250ad77c3" : {
+      "title" : "Suspendisse et molestie magna at finibus enim morbi vel orci est pellentesque habitant morbi tristique senectus",
+      "body" : "Suspendisse et molestie magna, at finibus enim. Morbi vel orci est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam pharetra mollis sem eget ultrices. Duis eu nisl quam. Sed ullamcorper urna risus, sed pharetra neque efficitur id. Vivamus sed magna eget mi efficitur dignissim. Praesent efficitur elit quam, eu rhoncus sapien vehicula quis. Sed nec faucibus ex. Integer venenatis, enim eu faucibus rutrum, ipsum metus dictum magna, eu mollis ligula felis at metus. Cras consequat sit amet lectus a vehicula. Vivamus sodales aliquet nunc, a aliquam massa aliquet vitae. Ut gravida et tellus at imperdiet. Sed at fermentum ligula. Aenean vel rhoncus urna.",
+      "type" : "paper",
+      "authors" : {
+        "caaf3a6c-277f-43d2-a863-77f01748c06d" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Timothy",
+          "lastName" : "Jorissen",
+          "email" : "tjorissen@gmail.com",
+          "affiliation" : "Boston University",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "05eb71e5-bdb5-4419-a79e-fe8eb0e0ba58" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Aaron",
+          "lastName" : "Stewart",
+          "email" : "astewart@gmail.com",
+          "affiliation" : "University of Oxford",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "f739a794-91cf-404f-a780-ac3223b7d08f" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Trevor",
+          "lastName" : "Hopper",
+          "email" : "trevorhooper@gmail.com",
+          "affiliation" : "University of Alberta",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "presenters" : {
+        "6c01d6e5-1cea-4be2-b83f-ccbc3e0de54d" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Trevor",
+          "lastName" : "Hopper",
+          "email" : "trevorhooper@gmail.com",
+          "affiliation" : "University of Alberta",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "corresponding" : {
+        "1ec4ca96-9a93-435d-83c9-43ad11370d2a" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Timothy",
+          "lastName" : "Jorissen",
+          "email" : "tjorissen@gmail.com",
+          "affiliation" : "Boston University",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "ccbf4129-03ea-40b6-ac59-1b56992f531f" : {
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "firstName" : "Aaron",
+          "lastName" : "Stewart",
+          "email" : "astewart@gmail.com",
+          "affiliation" : "University of Oxford",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      },
+      "startDate" : 1477647000000,
+      "duration" : 90,
+      "pdf" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/pdf/abstract-sample.pdf",
+      "session" : "e676a3e7-4c0e-4f84-b054-8dff1e5577c8"
+    }
+  },
+  "sessions" : {
+    "e676a3e7-4c0e-4f84-b054-8dff1e5577c8" : {
+      "name" : "A1234",
+      "startDate" : 1477645200000,
+      "endDate" : 1477648800000,
+      "location" : "Rooms 7, Hall A",
+      "tracks" : [
+        "Implications of Infectious Diseases for Global Health"
+      ],
+      "moderator" : {
+        "firstName" : "Michael",
+        "lastName" : "Bromwich",
+        "email" : "michaelbromwich@gmail.com",
+        "affiliation" : "Unity Hospital of Rochester"
+      }
+    },
+    "b51c993b-1e3a-47fd-afa0-3c50d594d8c8" : {
+      "name" : "B2343",
+      "startDate" : 1477650600000,
+      "endDate" : 1477654200000,
+      "location" : "Rooms 8, Hall B",
+      "tracks" : [
+        "Health Systems and Human Resources"
+      ],
+      "moderator" : {
+        "firstName" : "Robert",
+        "lastName" : "Scapens",
+        "email" : "robertscapens@gmail.com",
+        "affiliation" : "UMass Memorial - HealthAlliance Hospital"
+      }
+    },
+    "8b21de21-e848-4481-b05d-61fcd9218e85" : {
+      "name" : "C9346",
+      "startDate" : 1477731600000,
+      "endDate" : 1477737000000,
+      "location" : "Rooms 3, Hall C",
+      "tracks" : [
+        "Cancer Prevention, Diagnosis, and Management",
+        "Cancer and Mental Health"
+      ],
+      "moderator" : {
+        "firstName" : "Sarah",
+        "lastName" : "Geenen",
+        "email" : "sarahgeenen@gmail.com",
+        "affiliation" : "University of Texas"
+      }
+    }
+  },
+  "events" : {
+    "635653a0-7bc2-44f6-b43e-46a7770fc80b" : {
+      "title" : "Rock Stars of Connected Health Cybersecurity",
+      "startDate" : 1477675800000,
+      "endDate" : 1477683000000,
+      "description" : "The 2016 must-attend cybersecurity event, Rock Stars of Connected Health Cybersecurity, brings together the 7 top C-level experts to talk about the newest and worst cyber threats. They’ll be telling you their strategies and solutions for preventing vulnerabilities",
+      "mapData" : {
+        "latitude" : 40.700813,
+        "longitude" : -73.986173,
+        "zoomlevel" : "15",
+        "annoTitle" : "Prospero House",
+        "center" : "true"
+      },
+      "sponsor" : "33d785d9-e9db-4406-a805-98f65364de27"
+    },
+    "0e10664f-7da4-4746-8ed4-6d3e7a867d3e" : {
+      "title" : "Radiology Technical Exhibit",
+      "startDate" : 1477764000000,
+      "endDate" : 1477774800000,
+      "description" : "Whereas current MRI systems are hazardous, noisy, claustrophobic, require specially shielded facilities, are expensive and complicated to purchase, install and operate, Bayes Imaging’s new compact MRI, in contrast, is safe, patient-and-operator-friendly, quiet, can be placed anywhere in a research or medical facility, inexpensive to purchase and install, cost-effective, and simple to operate and maintain.",
+      "mapData" : {
+        "latitude" : 40.699227,
+        "longitude" : -73.986173,
+        "zoomlevel" : "15",
+        "annoTitle" : "Hall D",
+        "center" : "false"
+      },
+      "sponsor" : "35a38bfd-a35e-4ed1-89b4-182ddee88c55"
+    }
+  },
+  "conference" : {
+    "info" : {
+      "title" : "The Mallinckrodt Institute of Radiology Annual Congress 2017",
+      "description" : "The goal of this conference is to enhance the health and well-being of members of the transgender community by (1) increasing the number of mental health and medical health care providers who feel comfortable and confident providing care for transgender patients; (2) increasing transgender community members’ knowledge, self-efficacy and advocacy skills through transgender centered educational sessions.",
+      "startDate" : 1495443600000,
+      "endDate" : 1495818000000,
+      "city" : "New York",
+      "country" : "United States",
+      "email" : "conference@mir.com",
+      "image" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/conference-info/conference-placeholder.png"
+    },
+    "venue" : {
+      "title" : "The Westin New York at Times Square",
+      "address" : "270 West 43rd Street at Eighth Avenue, New York, NY 10036",
+      "mapData" : {
+        "latitude" : 40.757624,
+        "longitude" : -73.989125,
+        "zoomlevel" : "15"
+      }
+    }
+  },
+  "commitees" : {
+    "0fc4bd36-5a8a-4e3f-883b-290a160bffc9" : {
+      "title" : "Organizing Commitee",
+      "members" : {
+        "d983cff7-0949-4a96-b4b8-2503d1197d8f" : {
+          "firstName" : "Edgar",
+          "lastName" : "Weippl",
+          "email" : "edgarweippl@gmail.com",
+          "affiliation" : "Kennesaw State University",
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "ca2d936c-a465-4e77-b0aa-ddc745ac0bca" : {
+          "firstName" : "Joshua",
+          "lastName" : "Johnson",
+          "email" : "jjohnson@gmail.com",
+          "affiliation" : "University of Central Florida",
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "1d07aa37-0889-41e9-89e3-384746334ed4" : {
+          "firstName" : "Mathias",
+          "lastName" : "Payer",
+          "email" : "mpayern@gmail.com",
+          "affiliation" : "Purdue University",
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "1d07aa37-0889-41e9-89e3-384746334ed4" : {
+          "firstName" : "Brad",
+          "lastName" : "Blitz",
+          "email" : "bradblitz@gmail.com",
+          "affiliation" : "Georgia State University",
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      }
+    },
+    "9ca9d697-af84-4234-9624-1fb0767301c7" : {
+      "title" : "Scientific Commitee",
+      "members" : {
+        "c92b00d9-e82e-4477-a751-355968498315" : {
+          "firstName" : "Christopher",
+          "lastName" : "Kruegel",
+          "email" : "ckruegel@gmail.com",
+          "affiliation" : "University of California",
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        },
+        "3faf3846-5d2c-456c-bcb5-bcb9c283739c" : {
+          "firstName" : "Shai,",
+          "lastName" : "Halevi",
+          "email" : "shaihalevi@gmail.com",
+          "affiliation" : "IBM Research, USA",
+          "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+          "phoneNumber" : "00447700900801",
+          "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+          "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+          "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+        }
+      }
+    }
+  },
+  "sponsors" : {
+    "33d785d9-e9db-4406-a805-98f65364de27" : {
+      "name" : "Becton Dickinson",
+      "logo" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/sponsor-logos/becton-dickinson-logo.jpg",
+      "image" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/sponsor-logos/becton-dickinson.jpg",
+      "slogan" : "Advancing the World of Health",
+      "description" : "For more than 114 years, BD has applied its technologies, resources, and institutional knowledge to help address fundamental health issues. The goal of BD's Global Health Initiative is to help strengthen healthcare systems and increase access to healthcare in the developing world.",
+      "phoneNumber" : "00447700900801",
+      "facebook" : "http://www.facebook.com/ionicframework/",
+      "twitter" : "http://twitter.com/Ionicframework",
+      "webpage" : "http://www.bd.com/"
+    },
+    "35a38bfd-a35e-4ed1-89b4-182ddee88c55" : {
+      "name" : "Bayer",
+      "logo" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/sponsor-logos/bayer-logo.jpg",
+      "image" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/sponsor-logos/bayer.jpg",
+      "slogan" : "Science For A Better Life",
+      "description" : "The NHS faces many challenges today around the increasing need for governance to demonstrate best patient care within increasing financial constraints. Bayer’s Radiology business is well placed to be the partner in helping trusts to address these challenges. With market-leading contrast media and power injector systems, Bayer is able to offer innovative patient care and with the addition of its informatics platform, it can support radiology departments in driving protocol standardisation and easily accessible audit data that enable departments to meet further challenges faced around contrast and radiation dose management.",
+      "phoneNumber" : "00447700900801",
+      "facebook" : "http://www.facebook.com/ionicframework/",
+      "twitter" : "http://twitter.com/Ionicframework",
+      "webpage" : "http://www.bayer.com/"
+    }
+  },
+  "schedule-days" : {
+    "b0cc18bf-52e2-49d6-94e9-2b3b638cbe55" : {
+      "date" : "2017-05-15",
+      "sessions" : {
+        "f462b561-9001-401a-a245-ac7e06d4a871" : {
+          "title" : "08:30 - 09:00",
+          "subsessions" : {
+            "af0d1931-9acc-4fb9-859b-5a43aa8b79e8" : {
+              "timeStart" : "08:30",
+              "timeEnd" : "09:00",
+              "location" : "Hall A",
+              "title" : "Breakfast",
+              "description" : "",
+              "speakers" : {}
+            }
+          }
+        },
+        "62cd4286-931e-49d2-a74e-5961583739be" : {
+          "title" : "09:00 - 10:30",
+          "subsessions" : {
+            "02a9aee8-602c-4094-93f3-a54784238559" : {
+              "timeStart" : "09:00",
+              "timeEnd" : "09:30",
+              "location" : "Room 2201",
+              "title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+              "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur nunc magna, sit amet lacinia sapien mollis a. Vivamus cursus nunc non neque feugiat, non volutpat lectus auctor. Duis consectetur tincidunt nulla sit amet pharetra. Mauris rutrum posuere quam sit amet luctus. Duis molestie arcu et augue tempor aliquet eget id lacus. Donec nulla felis, maximus in nibh eu, gravida condimentum odio. Sed suscipit euismod urna eget accumsan. Quisque condimentum dignissim bibendum. Nunc vitae tristique erat.",
+              "speakers" : [
+                "Rickey C. Reynolds",
+                "Dorothy J. Cortez",
+                "William N. Bailey"
+              ]
+            },
+            "5c82d9fa-0ea2-47f0-a580-5e2691552c98" : {
+              "timeStart" : "09:30",
+              "timeEnd" : "10:00",
+              "location" : "Room 2202",
+              "title" : "Nam magna felis, dignissim ac sodales eu",
+              "description" : "Nam magna felis, dignissim ac sodales eu, pretium eget urna. Integer nec hendrerit purus. Nulla vehicula luctus pharetra. Aenean aliquam lobortis dolor et egestas. Curabitur a venenatis lectus, at accumsan arcu. Quisque pharetra vehicula volutpat. Mauris eget nisi vel enim tristique pellentesque in id libero. Aliquam aliquet aliquet diam, sit amet posuere justo placerat vel.",
+              "speakers" : [
+                "Jeffery S. Eadie",
+                "Eduardo E. Williams",
+                "James K. Pacheco"
+              ]
+            },
+            "557a08d8-d2d0-4143-a4f7-3321ea4be06c" : {
+              "timeStart" : "10:00",
+              "timeEnd" : "10:30",
+              "location" : "Room 2203",
+              "title" : "Suspendisse sagittis at erat sit amet vehicula",
+              "description" : "Integer interdum ligula justo, vitae viverra dui tincidunt id. Sed nec bibendum lacus. Donec venenatis, nunc ut suscipit venenatis, ex mi tincidunt metus, sit amet tempor magna metus at mauris. Quisque eu purus fermentum, finibus lorem ut, mattis sapien. Vivamus finibus orci eu ante lacinia volutpat. Integer nec dignissim urna.",
+              "speakers" : [
+                "Rita L. Perez",
+                "Carolyn R. Caraballo",
+                "Thomas M. Nixon"
+              ]
+            }
+          }
+        },
+        "1478fcb4-6f8b-4ce5-81e9-f2f34e1e99d4" : {
+          "title" : "10:30 - 11:30",
+          "subsessions" : {
+            "5a62e0db-afdb-4111-99fc-fe976d6c52f8" : {
+              "timeStart" : "10:30",
+              "timeEnd" : "11:30",
+              "location" : "Room 3301",
+              "title" : "Duis sagittis varius mauris",
+              "description" : "Sed libero mauris, consequat et nunc sit amet, sagittis sollicitudin lectus. Suspendisse fringilla porttitor orci. Donec consequat ipsum at blandit mattis. Sed at fermentum nibh, quis sollicitudin massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus a dictum augue. Nulla et vehicula ex. Quisque pharetra odio sed ipsum facilisis mattis nec eu sapien. Etiam malesuada rutrum nisl, id vulputate quam laoreet ac.",
+              "speakers" : [
+                "Cleveland E. Kunze",
+                "David Y. Trujillo"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "2fe100db-d698-412b-92d6-5dd03321e6ad" : {
+      "date" : "2017-05-16",
+      "sessions" : {
+        "ae9a27ce-0f6d-4a75-b14a-4139bcbcc639" : {
+          "title" : "09:30 - 11:00",
+          "subsessions" : {
+            "2066d0c3-5bf3-4c11-aedc-3cbbae7c3fed" : {
+              "timeStart" : "09:30",
+              "timeEnd" : "10:00",
+              "location" : "Room 3301",
+              "title" : "Pellentesque mollis nulla ac tempus sollicitudin",
+              "description" : "Phasellus quis eros nec nibh congue posuere. Vestibulum convallis tellus blandit, finibus ligula quis, maximus velit. Proin non massa vitae diam porta lacinia ac sit amet lorem. Suspendisse eget urna vitae neque sollicitudin auctor. Aliquam ac diam ut odio finibus sodales id imperdiet ex. Integer rutrum turpis enim, id mattis purus malesuada vel. Mauris ac mauris at est lobortis tempus. Vivamus euismod auctor velit a imperdiet. Mauris rhoncus porta bibendum.",
+              "speakers" : [
+                "Cesar D. Morabito",
+                "Melody R. Harden",
+                "Orlando M. Johnson"
+              ]
+            },
+            "e5cabd8b-468b-47b5-8993-e4c3c24097b2" : {
+              "timeStart" : "10:00",
+              "timeEnd" : "10:30",
+              "location" : "Room 3302",
+              "title" : "Phasellus tempor elit velit",
+              "description" : "Quisque quis commodo turpis, vitae ultrices lorem. Quisque pellentesque ipsum nec rhoncus rutrum. Aliquam viverra, lacus quis vulputate tristique, tellus orci sodales ante, non vulputate lorem arcu ac nunc. Duis tempor risus in erat ornare, a rhoncus leo sollicitudin. Aenean eget fringilla quam. Nulla interdum aliquet ornare. Phasellus nulla leo, lobortis nec convallis non, sodales sit amet eros. Nullam eu tellus purus. Suspendisse sit amet ipsum nisi.",
+              "speakers" : [
+                "Ricky R. Galloway",
+                "Linda R. Vincent",
+                "Lee E. Rule"
+              ]
+            },
+            "54315f21-2464-4306-97ab-ef26d733621e" : {
+              "timeStart" : "10:30",
+              "timeEnd" : "11:00",
+              "location" : "Room 3303",
+              "title" : "Rutrum turpis enim id mattis purus malesuada vel",
+              "description" : "Vivamus a dictum augue. Nulla et vehicula ex. Quisque pharetra odio sed ipsum facilisis mattis nec eu sapien. Etiam malesuada rutrum nisl, id vulputate quam laoreet ac. Pellentesque mollis nulla ac tempus sollicitudin. Phasellus quis eros nec nibh congue posuere. Vestibulum convallis tellus blandit, finibus ligula quis, maximus velit. Proin non massa vitae diam porta lacinia ac sit amet lorem. Suspendisse eget urna vitae neque sollicitudin auctor.",
+              "speakers" : [
+                "Kathleen R. Demery",
+                "Randy R. Flores",
+                "Timothy I. Lovin"
+              ]
+            }
+          }
+        },
+        "7105f71e-a3a5-4510-bff9-d171ad592d9e" : {
+          "title" : "11:00 - 12:00",
+          "subsessions" : {
+            "3064ac3c-897e-44e2-b14b-14354032a216" : {
+              "timeStart" : "11:00",
+              "timeEnd" : "12:00",
+              "location" : "Hall C",
+              "title" : "Aenean eget fringilla quam nulla interdum aliquet ornare",
+              "description" : "Proin non massa vitae diam porta lacinia ac sit amet lorem. Suspendisse eget urna vitae neque sollicitudin auctor. Aliquam ac diam ut odio finibus sodales id imperdiet ex. Integer rutrum turpis enim, id mattis purus malesuada vel. Mauris ac mauris at est lobortis tempus. Vivamus euismod auctor velit a imperdiet. Mauris rhoncus porta bibendum.",
+              "speakers" : [
+                "Billie L. Jowett",
+                "Maren T. Bryant"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "map" : {
+    "zoomlevel" : "12",
+    "venue" : {
+      "title" : "The Westin New York at Times Square",
+      "latitude" : 40.757624,
+      "longitude" : -73.989125,
+      "marker" : "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+    },
+    "hotels" : [
+      {
+        "title" : "Pearl Hotel",
+        "latitude" : 40.75767852984426,
+        "longitude" : -73.9979977947792
+      },
+      {
+        "title" : "Larchmont Hotel",
+        "latitude" : 40.734654,
+        "longitude" : -74.0048527
+      },
+      {
+        "title" : "The Avalon Hotel",
+        "latitude" : 40.7576772,
+        "longitude" : -73.9979549
+      },
+      {
+        "title" : "The Gotham Hotel NY",
+        "latitude" : 40.7576765,
+        "longitude" : -73.9979549
+      },
+      {
+        "title" : "The Roger New York",
+        "latitude" : 40.745595,
+        "longitude" : -73.9929497
+      },
+      {
+        "title" : "WestHouse Hotel New York",
+        "latitude" : 40.7577402,
+        "longitude" : -73.9979549
+      },
+      {
+        "title" : "East Village Hotel",
+        "latitude" : 40.7284059,
+        "longitude" : -73.9938254
+      },
+      {
+        "title" : "Bryant Park Hotel",
+        "latitude" : 40.7578039,
+        "longitude" : -73.9979549
+      },
+      {
+        "title" : "The Court - A St Giles Premier Hotel",
+        "latitude" : 40.7578358,
+        "longitude" : -73.9979549
+      },
+      {
+        "title" : "Executive Hotel Le Soleil New York",
+        "latitude" : 40.7578676,
+        "longitude" : -73.9979549
+      },
+      {
+        "title" : "EVEN Hotels New York - Times Square South",
+        "latitude" : 40.7578995,
+        "longitude" : -73.9979549
+      }
+    ]
+  },
+  "speakers" : {
+    "8cec040e-f4e9-4e3f-914a-9a50a11590e2" : {
+      "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+      "fullname" : "Robert Garell",
+      "email" : "robertgarell@gmail.com",
+      "affiliation" : "Boston University",
+      "phoneNumber" : "00447700900801",
+      "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+      "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+      "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+    },
+    "d007d76b-9501-405c-94c2-ec79a33d8a32" : {
+      "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+      "fullname" : "David Cooper",
+      "email" : "davidcooper@gmail.com",
+      "affiliation" : "University of Alberta",
+      "phoneNumber" : "00447700900801",
+      "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+      "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+      "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+    },
+    "96d690d3-14f9-46cd-9c7f-c7cd93325a7e" : {
+      "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+      "fullname" : "Rod Coombs",
+      "email" : "robcoombs@gmail.com",
+      "affiliation" : "UMIST",
+      "phoneNumber" : "00447700900801",
+      "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+      "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+      "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+    },
+    "de6f53c4-2ed8-4f75-adeb-47e033d70056" : {
+      "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+      "fullname" : "Nancy Okinow",
+      "email" : "nancyokinow@gmail.com",
+      "affiliation" : "University of Alberta",
+      "phoneNumber" : "00447700900801",
+      "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+      "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+      "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+    },
+    "caaf3a6c-277f-43d2-a863-77f01748c06d" : {
+      "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+      "fullname" : "Timothy Jorissen",
+      "email" : "tjorissen@gmail.com",
+      "affiliation" : "Boston University",
+      "phoneNumber" : "00447700900801",
+      "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+      "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+      "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+    },
+    "05eb71e5-bdb5-4419-a79e-fe8eb0e0ba58" : {
+      "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+      "fullname" : "Aaron Stewart",
+      "email" : "astewart@gmail.com",
+      "affiliation" : "University of Oxford",
+      "phoneNumber" : "00447700900801",
+      "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+      "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+      "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+    },
+    "f739a794-91cf-404f-a780-ac3223b7d08f" : {
+      "avatar" : "http://appseed.io.s3.amazonaws.com/mobile-apps/conference/assets/author-avatars/avatar.png",
+      "fullname" : "Trevor Hopper",
+      "email" : "trevorhooper@gmail.com",
+      "affiliation" : "University of Alberta",
+      "phoneNumber" : "00447700900801",
+      "linkedIn" : "http://www.linkedin.com/in/williamhgates",
+      "webpage" : "http://www.biography.com/people/bill-gates-9307520",
+      "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut hendrerit elit, at congue nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent efficitur nisi nulla, sit amet imperdiet tellus aliquam vitae. Phasellus consequat neque ut massa gravida pellentesque. Quisque cursus risus vitae est pulvinar blandit. Integer semper id odio viverra ornare. Nunc leo leo, lobortis et auctor non, pretium non libero. Vivamus non velit id enim tempus consequat. Sed porttitor non ipsum et blandit. Vivamus congue ornare ipsum. Aliquam euismod orci lectus, finibus vestibulum leo feugiat sed. Integer non pharetra quam, egestas sagittis leo. Maecenas convallis sed odio ac tincidunt. Sed porttitor velit ac justo vulputate, at rutrum sapien gravida. Aliquam feugiat bibendum nulla ut sodales."
+    }
+  }
+}
